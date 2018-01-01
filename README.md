@@ -58,4 +58,4 @@ Agradecimentos especiais ao **[Hard](http://gamersboard.com.br/user/14128-hard/)
 ## Download
 
 Download disponível no tópico da [GamersBoard](http://gamersboard.com.br/).  
-Link: ***EM BREVE***
+Link: [Clique Aqui](http://gamersboard.com.br/topic/53228-targonstore-targonnonickchange-previna-invas%C3%B5es-de-contas/)
