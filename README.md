@@ -44,18 +44,18 @@ Messages:
 
 **IMPORTANTE:** Para trocar entre os modos de database, é preciso configurar a sessão *useMySQL* do arquivo de configuração.
 
-# Comandos
+## Comandos
 
 * **/NoNickChange *help*** - Mostra a pagina de ajuda do plugin.
 * **/NoNickChange *delete [nick]*** - Deleta um usuário da database.
 * **/NoNickChange *reload*** - Recarrega as configurações do plugin.
 
-# Autor
+## Autor
 
 Plugin criado por **[Atlvntis](http://gamersboard.com.br/user/17772-atlvntis/)**.  
 Agradecimentos especiais ao **[Hard](http://gamersboard.com.br/user/14128-hard/)** por revisa-lo.
 
-# Download
+## Download
 
 Download disponível no tópico da [GamersBoard](http://gamersboard.com.br/).  
 Link: ***EM BREVE***
