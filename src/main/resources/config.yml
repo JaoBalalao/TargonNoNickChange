@@ -1,0 +1,24 @@
+
+Storage:
+
+  #Caso esteja false, irá usar SQLite.
+  useMySQL: false
+
+  #Credenciais do Servidor MySQL, ignore se estiver usando SQLite.
+  ip: localhost
+  database: database
+  username: root
+  password: pass
+
+Cache:
+
+  #Tempo (em minutos) que o plugin salvará os dados no MySQL.
+  timeInMinutes: 15
+
+Messages:
+
+  #Mensagem de Kick
+  kickWrongNick:
+    - '&6&lTargonNoNickChange'
+    - '&6Prezado &f{wrong_nick}&6, o seu nick ja está registrado como &f{right_nick}&6,'
+    - '&6portanto não poderá entrar. '

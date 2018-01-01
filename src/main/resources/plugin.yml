@@ -1,0 +1,7 @@
+name: TargonNoNickChange
+version: ${project.version}
+main: net.targon.nickcase.Main
+authors: [Atlvntis]
+commands:
+   nonickchange:
+      aliases: [targonnonickchange, nnc, tnnc]
